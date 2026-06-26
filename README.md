@@ -198,6 +198,6 @@ medspa-customer-segmentation/
 
 ## Author
 
-**Nishkarsh Maurya** . [GitHub](https://github.com/Nishkarshmauryaa) . [LinkedIn](https://linkedin.com/in/your-handle) *(update this link)*
+**Nishkarsh Maurya** . [GitHub](https://github.com/Nishkarshmauryaa) . [LinkedIn](https://www.linkedin.com/in/Nishkarshmauryaa)
 
 *Built as a learning project. All data simulated.*
