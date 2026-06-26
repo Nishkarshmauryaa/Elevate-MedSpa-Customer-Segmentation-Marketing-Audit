@@ -198,4 +198,4 @@ medspa-customer-segmentation/
 
 ## Author
 
-**Nishkarsh Maurya** . [GitHub](https://github.com/Nishkarshmauryaa) . [LinkedIn](www.linkedin.com/in/nishkarshmauryaa) . [Portfolio]()
+**Nishkarsh Maurya** . [GitHub](https://github.com/Nishkarshmauryaa) . [LinkedIn](www.linkedin.com/in/nishkarshmauryaa) . [Portfolio](https://nishkarshmauryaa.github.io/Elevate-MedSpa-Customer-Segmentation-Marketing-Audit/)
